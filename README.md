@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv-bhadaniya" alt="shiv-bhadaniya" /></a> </p>
 
-- 🔭 I’m currently working on [Backboil]([https://github.com/shiv-bhadaniya/simply-sensible-frontend](https://github.com/shiv-bhadaniya/backboil))
+- 🔭 I’m currently working on [backboil][https://github.com/shiv-bhadaniya/backboil](https://github.com/shiv-bhadaniya/backboil)
 
 - 🌱 I’m currently learning **TypeScript**
 
