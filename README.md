@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shivbhadaniya56@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1EoTFMHfPV2eZ5pdYxp0lZQP9GCopES4a/view?usp=sharing](https://drive.google.com/file/d/1UvSoMIM6ZSC4dPNVa1g2ETam_A2RC8GL/view?usp=drive_link))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1UvSoMIM6ZSC4dPNVa1g2ETam_A2RC8GL/view?usp=drive_link)
 
 - ⚡ Fun fact **I love Tea ☕**
 
